@@ -106,3 +106,7 @@ Typically a workflow file can only download packages from public GitHub reposito
 
 [autopkg_tools.py](https://github.com/Gusto/it-cpe-opensource/blob/main/autopkg/autopkg_tools.py) and [autopkg.yml](https://github.com/Gusto/it-cpe-opensource/blob/main/autopkg/workflows/autopkg.yml) from ZenPayroll, Inc., dba Gusto under a BSD 3-clause license.
 
+## Notes
+
+1. This repo was moved/copied here by Betsy Keiser in order to maintain it more easily. If you find any issues or have questions, feel free to submit an issue or contact me on MacAdmins Slack @betsy!
+2. You can view my JNUC presentation about this repo [here](https://www.youtube.com/watch?v=2_xT6Fy2Yi0&pp=ygUXam51YyAyMDIzIGF1dG9wa2cgYmV0c3k%3D)
